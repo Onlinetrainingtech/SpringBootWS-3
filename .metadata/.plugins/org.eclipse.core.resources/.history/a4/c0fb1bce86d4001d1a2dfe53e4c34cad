@@ -1,0 +1,5 @@
+package com.example.SpringB2Web.Controller;
+
+public class HomeController {
+
+}
